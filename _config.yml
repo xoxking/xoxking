@@ -1,29 +1,29 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: xox Blog
+SEOTitle: 伪大佬的博客 | xox Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: icicfbi@hotamil.com
+description: "世界很美好，可惜我看不到"
+keyword: "xox, xox Blog, 伪大佬的博客, xox, 伪大佬, iOS, Apple, iPhone"
+url: "http://xoxking.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "我要围着这个世界转圈圈，怎么办!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     xoxking
+zhihu_username:     xoxking
+github_username:    xoxking
+facebook_username:  xoxking
+jianshu_username:   xoxking
+#twitter_username:   xoxking
 
 
 
